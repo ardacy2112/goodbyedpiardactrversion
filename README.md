@@ -1,3 +1,15 @@
+# GoodByeDPI TR ardacy2112
+Not bu sürüm tamamen Goodbyedpı ın orijinalinden dosya değiştirmesi olarak yapılmış sürümdür.GoodByeDPIın orijinal deposundan alınıp sadece değiştirilmiştir bu yüzden projede kod veya dosya yoktur sadece cmd dosyalarının kodları değiştirilerek yapılmış bir sürümdür.
+
+
+
+
+
+
+
+
+
+
 **Önemli Not Kaspersky**
 
 
