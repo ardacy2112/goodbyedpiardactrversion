@@ -14,3 +14,5 @@ Yönetici çalıştırısanız iyi bir şekilde tam kurulur.
 Güncelleme geldi Cloudflare DNSli sürüm eklendi.
 
 QuadDNS eklendi.
+
+**Not:Sorumluluk tamamen size aittir biz sadece üreticiyiz tüketici sizsiniz lütfen kötü şeylerde kullanmayın.**
