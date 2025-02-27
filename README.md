@@ -30,3 +30,12 @@ QuadDNS eklendi.
 **Not:Sorumluluk tamamen size aittir biz sadece üreticiyiz tüketici sizsiniz lütfen kötü şeylerde kullanmayın.**
 **Bu uygulama ve yazılım dosyalarının kullanımı sonucunda doğabilecek her türlü yasal sorumluluk, kullanıcıların kendine aittir.**
 
+
+# Kurulum
+
+1.Manual İnstall:
+istediğiniz versiyona sağ klik yapıp yönetici çalıstırın ve açılınca entera basın.
+
+
+2.Manual Uninstall
+**trnew_tekseferdesil.cmd** yi yönetici çalıştırın ve entera basın.
