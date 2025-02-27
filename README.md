@@ -16,3 +16,5 @@ Güncelleme geldi Cloudflare DNSli sürüm eklendi.
 QuadDNS eklendi.
 
 **Not:Sorumluluk tamamen size aittir biz sadece üreticiyiz tüketici sizsiniz lütfen kötü şeylerde kullanmayın.**
+**Bu uygulama ve yazılım dosyalarının kullanımı sonucunda doğabilecek her türlü yasal sorumluluk, kullanıcıların kendine aittir.**
+
