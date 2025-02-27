@@ -10,7 +10,7 @@ Not bu sürüm tamamen Goodbyedpı ın orijinalinden dosya değiştirmesi olarak
 
 
 
-**Önemli Not Kaspersky**
+# Önemli Not Kaspersky
 
 
 Kaspersky adındaki antivirus bu hizmeti genellikle bloke etmektedir yani kaspersky kullanıyor iseniz mutlaka kaldırınız.Çünkü Kaspersky size GoodbyeDPI kurmanıza **izin vermeyecektir.**
