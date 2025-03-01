@@ -39,3 +39,7 @@ istediğiniz versiyona sağ klik yapıp yönetici çalıstırın ve açılınca 
 
 2.Manual Uninstall
 **trnew_tekseferdesil.cmd** yi yönetici çalıştırın ve entera basın.
+
+# Önemli Not
+
+Not: Eger calismazsa Redist klasörü içindekilerden size uygun olanı kurun 64 bit ise 65 bit 32 ise 32 yazan diğerinide kurun diğeri farketmiyor ve dnsnizi 1.1.1.1 alternatif dnsi 1.0.0.1 yapiniz.
