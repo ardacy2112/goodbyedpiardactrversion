@@ -2,6 +2,9 @@
 Not bu sürüm tamamen Goodbyedpı ın orijinalinden dosya değiştirmesi olarak yapılmış sürümdür.GoodByeDPIın orijinal deposundan alınıp sadece değiştirilmiştir bu yüzden projede kod veya dosya yoktur sadece cmd dosyalarının kodları değiştirilerek yapılmış bir sürümdür.
 
 
+# Destek Revolt
+Destek yardım vb. için revolt serverımız:https://rvlt.gg/NJKcW754
+
 
 
 
