@@ -4,7 +4,7 @@ Not bu sürüm tamamen Goodbyedpı ın orijinalinden dosya değiştirmesi olarak
 
 # Destek Revolt - Discord
 Destek yardım vb. için revolt serverımız:https://rvlt.gg/NJKcW754
-https://discord.gg/n3JAqyXfVd
+[https://discord.gg/n3JAqyXfVd](https://discord.gg/GwjCX8T5qG)
 
 
 
